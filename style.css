@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #181818;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  width: 456px;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  border: 2px solid cyan;
+  margin: 5px;
+  transition: 1s;
+}
