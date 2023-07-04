@@ -1,5 +1,5 @@
 # Flex Example
 
-### Live Site: URL Coming Soon
+### Live Site: https://ramyouda.github.io/Flex-Example
 
 An example of using FlexBox to position elements, along with some fun colors!
